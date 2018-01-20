@@ -124,12 +124,10 @@ a costly parallel training infrastructure, or to settle for
 unrealistic scaled-down versions of complex environments.
 
 
-<!-- .slide: data-background-image="images/docker-logo.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/kubernetes-logo.svg" data-background-size="contain" -->
 Note: Imagine being able to give *each and every person* on your
 virtualization team a massively scaleable container infrastructure,
-using potentially hundreds of Docker containers.
-
-Source: Docker Media Kit from //www.docker.com/legal/marks_and_logos/
+using potentially hundreds of containers.
 
 
 <!-- .slide: data-background-image="images/ceph-logo.svg" data-background-size="contain" -->

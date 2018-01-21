@@ -18,23 +18,6 @@ The OpenStack deployment bits are of course under the AGPL as well, as
 is the rest of the edx-configuration repo.
 
 
-<!-- .slide: data-background-image="images/hastexo-logo.svg" data-background-size="contain" -->
-https://www.hastexo.com/openedx
-
-Note: This is our Open edX landing page, from which you can continue to
-- resources related to our OpenStack community involvement,
-- news releases,
-- a 3-minute video explaining why we got into this (essentially, what
-  I said at the top of the talk in 3 minutes, with pretty graphics and
-  audio narration).
-
-
-![hastexo Academy logo](images/academy-logo.svg)
-
-
-[`academy@hastexo.com`](mailto:academy@hastexo.com)
-
-
 <div class="legal">
 "edX", "Open edX", the edX logo, and the "Powered by Open edX" logo
 are trademarks or registered trademarks of [edX,

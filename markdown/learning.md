@@ -59,7 +59,7 @@ stack for a particular run, then fire it up for every trainee as needed.
     url_name="lab_introduction"
     stack_template_path="hot_lab.yaml"
     stack_user_name="training"
-    os_auth_url="https://ops.elastx.net:5000/v2.0"
+    os_auth_url="https://openstack.example.com:5000/v3"
     os_tenant_name="example.com"
     os_username="demo@example.com"
     os_password="foobarfoobarfoofoo" />

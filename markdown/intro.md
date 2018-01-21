@@ -115,9 +115,7 @@ these same qualities, also for professional education.
 Note: OpenStack is a cloud management and orchestration platform
 reshaping the way organizations manage and run their data centers.
 
-
-<!-- .slide: data-background-image="images/openstack-edx-logo.svg" data-background-size="contain" -->
-Note: And using these two platforms, we can provide a learning experience
+And using these two platforms, we can provide a learning experience
 that is directly and smoothly integrated with life-sized, complex
 environments. This frees organizations from having to either maintain
 a costly parallel training infrastructure, or to settle for
@@ -147,8 +145,3 @@ Note: Cost-effective, scalable, fast...
 
 <!-- .slide: data-background-image="images/open_source.svg" data-background-size="contain" -->
 Note: ... and open.
-
-
-<!-- .slide: data-background-image="images/openstack-edx-logo.svg" data-background-size="contain" -->
-Note: With Open edX and OpenStack coming together for better
-professional learning.

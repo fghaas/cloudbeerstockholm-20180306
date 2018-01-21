@@ -9,7 +9,7 @@ Use the
 
 - https://github.com/hastexo
 - [hastexo-xblock](https://github.com/hastexo/hastexo-xblock)
-- [edx-configuration/tree/integration/cypress](https://github.com/hastexo/edx-configuration/tree/integration/cypress)
+- [edx-configuration/tree/integration/gingko](https://github.com/hastexo/edx-configuration/tree/integration/gingko)
 
 Note: We have followed the precedent set by most other currently
 available XBlocks and released ours under the AGPL.

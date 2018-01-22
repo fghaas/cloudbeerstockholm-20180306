@@ -1,10 +1,14 @@
-## OpenStack for Open edX:
-## Inside and Out
+<!-- .slide: data-background-image="images/citynetwork-logo.svg"  data-background-size="10% 10%" data-background-position="10% 10%" -->
+### Closing the Skills Gap for Distributed Technology
 
-[`florian.haas@hastexo.com`](mailto:florian.haas@hastexo.com)
+Open Education Miniconf
 
-[@xahteiwi](https://twitter.com/xahteiwi) | [@hastexo](https://twitter.com/hastexo)
-# 
+* * *
+
+Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
+
+linux.conf.au 2018 | January 23, 2018
+
 Note: Question: what's the universal biggest challenge that
 enterprises face when it comes to technology adoption?
 

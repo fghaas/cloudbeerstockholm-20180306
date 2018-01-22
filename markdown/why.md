@@ -4,7 +4,7 @@ Note: Why did we chose the tools we did?
 
 
 ## Why Open edX?
-- Openness and community<!-- .element: class="fragment" -->
+- Openness and community
 - Technology
 - Extensibility
 
@@ -31,7 +31,7 @@ greatest, and coolest open source LMS out there?
 
 
 ## Why OpenStack?
-- Openness and community<!-- .element: class="fragment" -->
+- Openness and community
 - Technology
 - Extensibility
 

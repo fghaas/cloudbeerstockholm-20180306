@@ -39,7 +39,7 @@ course, the stack is resumed automatically.
 Enter
 ## XBlocks!
 
-https://github.com/hastexo/hastexo-xblock <!-- .element: class="fragment" -->
+https://github.com/hastexo/hastexo-xblock
 
 Note: As noted before, one of the reasons we chose Open edX was because it was
 extensible.  And XBlocks were the extension API that seemed most suited to

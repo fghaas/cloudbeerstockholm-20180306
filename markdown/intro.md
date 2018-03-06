@@ -1,13 +1,11 @@
 <!-- .slide: data-background-image="images/citynetwork-logo.svg"  data-background-size="10% 10%" data-background-position="10% 10%" -->
-### Closing the Skills Gap for Distributed Technology
-
-Open Education Miniconf
+### We’ve Got The Tech, Now What About the Skills?
 
 * * *
 
 Florian Haas | [@xahteiwi](https://twitter.com/xahteiwi)
 
-linux.conf.au 2018 | January 23, 2018
+CloudBeer Stockholm | March 6, 2018
 
 Note: Question: what's the universal biggest challenge that
 enterprises face when it comes to technology adoption?

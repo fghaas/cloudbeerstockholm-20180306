@@ -35,8 +35,9 @@ of [Docker, Inc.](http://docker.io)
 "Hadoop" and the Hadoop logo are trademarks or registered trademarks
 of the [Apache Software Foundation](http://www.apache.org).
 
-[hastexo](https://www.hastexo.com) is not affiliated, endorsed by, or
-sponsored by the respective trademark owners.
+[hastexo](https://www.hastexo.com) and
+[City Network](https://www.citynetworkhosting.com) are not affiliated,
+endorsed by, or sponsored by the respective trademark owners.
 
 Graphics by [Natalka Design](http://www.natalkadesign.com/).
 </div>

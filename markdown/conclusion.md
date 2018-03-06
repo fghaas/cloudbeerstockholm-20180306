@@ -39,7 +39,4 @@ of the [Apache Software Foundation](http://www.apache.org).
 sponsored by the respective trademark owners.
 
 Graphics by [Natalka Design](http://www.natalkadesign.com/).
-
-This presentation &copy; 2015 hastexo Professional Services GmbH. All
-rights reserved.
 </div>

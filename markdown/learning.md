@@ -36,56 +36,6 @@ but then suspend it if it's not in use.  When the trainee comes back, of
 course, the stack is resumed automatically.
 
 
-Enter
-## XBlocks!
-
-https://github.com/hastexo/hastexo-xblock
-
-Note: As noted before, one of the reasons we chose Open edX was because it was
-extensible.  And XBlocks were the extension API that seemed most suited to
-implement our solution: it offered enough flexibility to implement the needed
-features, and also an easy way to keep them customizable at the hands of course
-authors.
-
-In other words, with an XBlock we can let the course author define the Heat
-stack for a particular run, then fire it up for every trainee as needed.
-
-
-### OpenStack auth
-
-```
-<vertical url_name="lab_introduction">
-  <hastexo
-    url_name="lab_introduction"
-    stack_template_path="hot_lab.yaml"
-    stack_user_name="training"
-    os_auth_url="https://openstack.example.com:5000/v3"
-    os_tenant_name="example.com"
-    os_username="demo@example.com"
-    os_password="foobarfoobarfoofoo" />
-</vertical>
-```
-
-Note: This is how a course author invokes the hastexo XBlock, using OLX.  Here
-you can see the standard OpenStack authentication variables, and also the asset
-file name of the Heat template that should be uploaded to the data store.  The
-user name that will be used to connect to the stack via SSH should also be
-defined here, and match what the Heat template creates.
-
-
-### Heat template outputs
-
-```
-outputs:
-  public_ip:
-    description: Floating IP address of deploy in public network
-    value: { get_attr: [ deploy_floating_ip, floating_ip_address ] }
-  private_key:
-    description: Training private key
-    value: { get_attr: [ training_key, private_key ] }
-```
-
-
 Connecting the
 ## browser
 to the
@@ -95,7 +45,8 @@ Note: The last piece of the puzzle was finding a way to connect the course
 content, as displayed on a student's browser, to the lab environment that would
 be created just for them.
 
-The solution we found was GateOne, a open source, Python and Javascript
-terminal emulator and SSH client.  When run on the same app server as the LMS
-hosting the XBlock, it allowed us to create an SSH connection securely
-and automatically to the student's cluster.
+The solution we found was Apache Guacamole, a open source, Python and
+Javascript terminal emulator, GUI proxy and SSH client.  When run on
+the same app server as the LMS hosting the XBlock, it allows us to
+create an SSH or RDP connection securely and automatically to the
+student's cluster.
